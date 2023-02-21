@@ -20,7 +20,7 @@ To install the required libraries, use the following command:
 > pip install numpy pandas seaborn matplotlib sklearn 
 
 ### Executing program
-To run the project, simply open the clustering.ipynb file in Colab and follow the instructions provided in the notebook.
+To run the project, simply open the Clustering-Algorithms.ipynb file in Colab and follow the instructions provided in the notebook.
 
 ### Acknowledgments
 The project was developed as part of a machine learning course, and was inspired by various online resources and examples. Special thanks to the creators of the "Mall Customers" dataset and the Scikit-learn library for providing the data and implementation of the GMM and hierarchical clustering algorithms.
