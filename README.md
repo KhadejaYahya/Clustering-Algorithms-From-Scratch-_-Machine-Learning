@@ -2,7 +2,7 @@
 
 Clustering Algorithms Implementation and Comparison
 
-This project is a collaborative effort with @/RitajAlmutairi and shahad Alharbi @\shduv0
+This project is a collaborative effort with @RitajAlmutairi and shahad Alharbi @shduv0
 
 ## Description
 This project is aimed at implementing the KMeans, DBSCAN, GMM, and hierarchical clustering algorithms from scratch using Python, as well as utilizing the GMM and hierarchical clustering algorithms provided by the sklearn library. The project uses various datasets, including "Mall Customers", make_blobs, make_moons, and make_circles, to compare and evaluate the performance of the different clustering algorithms. The project was implemented using Colab, and utilizes popular Python libraries such as NumPy, Pandas, Seaborn, and Matplotlib.
